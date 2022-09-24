@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Start — CKV | Robin Boers</title>
 
-    <link rel="stylesheet" href="/assets/css/ckv.css" type="text/css" />
+    <link rel="stylesheet" href="/ckv/assets/css/ckv.css" type="text/css" />
     <meta name="robots" content="noindex, nofollow" />
   </head>
 
