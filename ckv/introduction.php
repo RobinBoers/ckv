@@ -25,7 +25,8 @@
                         <a
                             href="https://ckvzan.wixsite.com/dossier/kopie-van-blok-1-1"
                             >introductielessen</a
-                        >. Dit is momenteel nog een WIP.
+                        >. Als vorm voor de opdracht heb ik een blogpost
+                        gekozen.
                     </p>
 
                     <h2 id="fotografie">Fotografie</h2>
@@ -92,6 +93,27 @@
                         ervaar als een symbolisch ding dan de foto van de
                         wortels.
                     </p>
+                    <h3>Onderzoeksopdracht fotografie</h3>
+                    <p>
+                        Voor fotografie moesten we een als onderzoeksopdracht
+                        een foto namaken. Ik heb besloten met mijn zusje de
+                        volgende foto na te maken:
+                    </p>
+
+                    <figure>
+                        <img
+                            src="/ckv/assets/images/broer-zus.jpg"
+                            alt="Broer en zus zitten naast elkaar" />
+                        <figcaption>
+                            Bron:
+                            <a
+                                href="https://www.voormijnkleintje.nl/kind/waarom-broertje-zusje-leuk-is/"
+                                >voormijnkleintje.nl</a
+                            >
+                        </figcaption>
+                    </figure>
+
+                    <p>Je kan <a href="#">hem hier vinden</a>.</p>
 
                     <h2 id="performance">Performance</h2>
                     <table>
@@ -203,6 +225,70 @@
                         gebruiken kan je de inhoud overbrengen. Denk
                         bijvoorbeeld aan het imiteren van een handeling (iets
                         naspelen, zoals bijvoorbeeld autorijden of koken).
+                    </p>
+
+                    <h2>Eigen voorbeelden</h2>
+
+                    <p>
+                        Voor mijn eigen voorbeelden heb ik foto's van de
+                        brandweer gekozen:
+                    </p>
+
+                    <figure>
+                        <img
+                            src="/ckv/assets/images/brandweer-oud.jpg"
+                            alt="De brandweer in 1957" />
+                        <figcaption>
+                            Bron:
+                            <a
+                                href="https://hvm.collectiebank.nl/beeldbank/start/archieven5?view=preview&fuid=fto54/A7105.jpg"
+                                >Historische Vereniging Maassluis</a
+                            >
+                        </figcaption>
+                    </figure>
+
+                    <p>
+                        De eerste foto is in zwart-wit genomen (vorm) van net
+                        iets onder de auto. Omdat hij zwart-wit is lijkt het al
+                        meer gestyleerd en kan je je het minder goed voorstellen
+                        (je er in inleven). Ik vind ook dat het een beetje lijkt
+                        op zo'n stille film van vroeger (inhoud), mede door de
+                        houdingen van de mensen in de foto (vorm). De foto is
+                        gemaakt op een filmrolletje en daarna afgedrukt en
+                        ingescanned op de computer, waardoor je ook imperfecties
+                        en vlekjes ziet, het is wat smoezelig. Dat maakt de foto
+                        wat minder mooi, maar het heeft zo ook z'n charme, het
+                        ziet er ook authentiek uit. De resolutie is niet zo hoog
+                        (materiaal) en de belichting (ook materiaal) is ook niet
+                        al te scherp (al kan dat door het afdrukken komen),
+                        waardoor de foto een wat "zachtere" vibe krijgt
+                        (inhoud).
+                    </p>
+
+                    <figure>
+                        <img
+                            src="/ckv/assets/images/brandweer-nieuw.jpg"
+                            alt="Hedendaagse brandweer in actie" />
+                        <figcaption>
+                            Bron:
+                            <a
+                                href="https://www.cbs.nl/nl-nl/corporate/2015/39/brand-blussen-met-een-ipad"
+                                >CBS</a
+                            >
+                        </figcaption>
+                    </figure>
+
+                    <p>
+                        De tweede foto is een actiefoto van de hedendaagse
+                        brandweer (inhoud). Hij is in kleur genomen (vorm) op
+                        een hoge resolutie in fel zonlicht (materiaal). Dit
+                        zorgt ervoor dat de foto er realistischer uitziet, het
+                        lijkt of je er echt bij staat. Het lage standpunt (vorm)
+                        van de foto zorgt er voor dat hij er dramatischer
+                        uitziet (inhoud), misschien zelfs wat overdreven. Het
+                        felle zonlicht (materiaal) zorgt voor een wat hoger
+                        contrast waardoor de foto er wat "feller" uitziet
+                        (inhoud).
                     </p>
                 </section>
             </article>
