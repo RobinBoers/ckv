@@ -81,7 +81,7 @@
                     </h3>
                     <p>
                         Beide foto&#39;s maken gebruik van eten om seksualiteit
-                        te suggereren. Wel is de eerste foto met de appels
+                        te suggereren. Wel is de eerste foto, die met de appels,
                         zwart-wit en de foto met de wortels in kleur gemaakt.
                         Ook is de foto van de wortels in landscape gemaakt en is
                         de foto van de appels in portrait. Daardoor voelt de
@@ -196,26 +196,44 @@
                     </p>
                     <figure>
                         <img
-                            src="/ckv/assets/images/belichting-focus.jpg"
-                            alt="Belichting kan nadruk leggen op het onderwerp van de foto" />
+                            src="/ckv/assets/images/handen.jpg"
+                            alt="Door wat in frame is kan je nadruk leggen" />
                         <figcaption>
-                            Bron:
-                            <a href="https://citrinitas.com">Citrinitas</a>
+                            Door wat in frame is kan je nadruk leggen. Bron:
+                            <a
+                                href="https://www.libelle.nl/lifestyle/waarom-het-belangrijk-is-regelmatig-met-je-partner-hand-in-hand-te-lopen~b033e2a1/"
+                                >Libelle</a
+                            >
                         </figcaption>
                     </figure>
                     <p>
                         Je kan ook werken met de manier van afdrukken en
                         verschillen in belichting en lens. Met belichting kan je
-                        de focus op het onderwerp van de foto leggen. Je kan ook
-                        met effecten/filters bepaalde kleurcontrasten versterken
-                        zodat de emotie die een foto oproept veranderd:
+                        de focus op het onderwerp van de foto leggen, zoals de
+                        zombie/man in de volgende foto:
+                    </p>
+                    <figure>
+                        <img
+                            src="/ckv/assets/images/belichting-focus.jpg"
+                            alt="Belichting kan nadruk leggen op het onderwerp van de foto" />
+                        <figcaption>
+                            Belichting kan nadruk leggen op het onderwerp van de
+                            foto. Bron:
+                            <a href="https://citrinitas.com">Citrinitas</a>
+                        </figcaption>
+                    </figure>
+                    <p>
+                        Je kan ook met effecten/filters bepaalde kleurcontrasten
+                        versterken zodat de emotie die een foto oproept
+                        veranderd:
                     </p>
                     <figure>
                         <img
                             src="/ckv/assets/images/fotografie-filters.jpg"
                             alt="Filters kunnen de emotie die een foto opwekt versterken" />
                         <figcaption>
-                            Bron:
+                            Filters kunnen de emotie die een foto opwekt
+                            versterken. Bron:
                             <a href="https://mihoci.com">MihociStudios</a>
                         </figcaption>
                     </figure>
@@ -225,6 +243,14 @@
                         gebruiken kan je de inhoud overbrengen. Denk
                         bijvoorbeeld aan het imiteren van een handeling (iets
                         naspelen, zoals bijvoorbeeld autorijden of koken).
+                    </p>
+
+                    <p>
+                        Beide disciplines werken wel met door iets uit te
+                        beelden, in tegenstelling tot bijvoorbeeld muziek. Bij
+                        performance werk je altijd met mensen, en bij fotografie
+                        vaak ook (al kan je ook voorwerpen of locaties
+                        fotograferen natuurlijk).
                     </p>
 
                     <h2>Eigen voorbeelden</h2>
