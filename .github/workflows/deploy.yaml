@@ -16,5 +16,5 @@ jobs:
                   server: ${{ secrets.FTP_SERVER }}
                   username: ${{ secrets.FTP_USERNAME }}
                   password: ${{ secrets.FTP_PASSWORD }}
-                  server-dir: domains/geheimesite.nl/public_html/ckv/
+                  server-dir: domains/geheimesite.nl/public_html/ckv/robinboers4a2/
                   local-dir: ./ckv/
