@@ -25,7 +25,7 @@
                         <a
                             href="https://ckvzan.wixsite.com/dossier/kopie-van-blok-1-1"
                             >introductielessen</a
-                        >. Als vorm voor de opdracht heb ik een blogpost
+                        >. Als vrije vorm voor de opdracht heb ik een blogpost
                         gekozen.
                     </p>
 
