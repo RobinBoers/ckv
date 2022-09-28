@@ -30,6 +30,8 @@
                     </p>
 
                     <h2 id="fotografie">Fotografie</h2>
+                    <p>Voorbeelden uit de lessen:</p>
+
                     <table>
                         <thead>
                             <tr>
@@ -116,6 +118,8 @@
                     <p>Je kan <a href="#">hem hier vinden</a>.</p>
 
                     <h2 id="performance">Performance</h2>
+                    <p>Voorbeelden uit de lessen:</p>
+
                     <table>
                         <thead>
                             <tr>
