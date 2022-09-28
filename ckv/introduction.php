@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -115,7 +115,7 @@
                         </figcaption>
                     </figure>
 
-                    <p>Je kan <a href="#">hem hier vinden</a>.</p>
+                    <p>Je kan <a href="/ckv/onderzoek/liefde/fotografie">hem hier vinden</a>.</p>
 
                     <h2 id="performance">Performance</h2>
                     <p>Voorbeelden uit de lessen:</p>

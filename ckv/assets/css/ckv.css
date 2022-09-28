@@ -167,8 +167,11 @@ body > header > p {
     flex-grow: 1;
     display: flex;
     flex-direction: row-reverse;
+    justify-content: flex-end;
     flex-wrap: wrap;
     gap: var(--s5);
+    width: fit-content;
+    max-width: 100%;
 }
 
 .content > :last-child {
@@ -192,7 +195,6 @@ body > footer {
 /* Atoms */
 
 .box {
-    box-sizing: content-box;
     max-inline-size: 60ch;
     padding-inline-start: var(--s1);
     padding-inline-end: var(--s1);
@@ -200,6 +202,9 @@ body > footer {
     background: white;
     padding: var(--s1);
     overflow: hidden;
+    text-overflow: ellipsis;
+    overflow-wrap: break-word;
+    inline-size: 100%;
 }
 
 .center {
@@ -246,6 +251,29 @@ body > footer {
     width: 10em;
     object-fit: cover;
     object-position: top;
+}
+
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1em;
+}
+
+.photo-grid figure img {
+    aspect-ratio: 1/1;
+    width: 100%;
+    object-fit: cover;
+}
+
+.photo-grid .photo-grid {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.seperator {
+    margin-block: 3em;
 }
 
 /* Utilities */

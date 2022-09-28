@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="nl">
     <head>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -41,8 +41,8 @@
                     </p>
 
                     <p>
-                        In mijn vrije tijd speel ik graag handbal en bouw ik
-                        websites voor mijn werk bij Qdentity.
+                        In mijn vrije tijd speel ik graag handbal en design ik
+                        websites voor mijn werk bij Qdentity. Ik houd verder ook van geschiedenis en heb bijgedragen aan de lessenserie van de Historische Vereniging Maassluis.
                     </p>
 
                     <p>
