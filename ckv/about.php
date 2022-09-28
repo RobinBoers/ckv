@@ -41,8 +41,11 @@
                     </p>
 
                     <p>
-                        In mijn vrije tijd speel ik graag handbal en design ik
-                        websites voor mijn werk bij Qdentity. Ik houd verder ook van geschiedenis en heb bijgedragen aan de lessenserie van de Historische Vereniging Maassluis.
+                        In mijn vrije tijd speel ik graag handbal. Ik kom niet heel veel in contact met traditionele kunst, maar ik design websites voor mijn werk bij Qdentity. Ik houd verder ook van geschiedenis en heb bijgedragen aan de lessenserie van de Historische Vereniging Maassluis. Dat is het wel een beetje qua cultuur ervaring.
+                    </p>
+
+                    <p>
+                        <small>Nu moet ik wel zeggen dat ik het niet mis ofzo, ik vind het wel prima om niet heel veel in contact te komen met kunst. Ik weet niet of het slim is om dit op mn site te zetten (geen minpunten pls), maar ik dacht dat het wel belangrijk was.</small>
                     </p>
 
                     <p>
