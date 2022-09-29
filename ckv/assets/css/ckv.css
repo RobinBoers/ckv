@@ -276,6 +276,37 @@ body > footer {
     margin-block: 3em;
 }
 
+.item::before {
+    padding-inline: 1ch;
+    padding-block: .2ch;
+    padding-block-start: 0;
+    border-radius: 15px;
+    font-variant: small-caps;
+    line-height: 0;
+    background-color:rgba(69, 240, 252, .3);
+    margin-inline-end: .4ch;
+}
+
+.item-a::before {
+    content: "a"
+}
+
+.item-b1::before {
+    content: "b.i"
+}
+
+.item-b2::before {
+    content: "b.ii"
+}
+
+.item-c::before {
+    content: "c"
+}
+
+.item-extra::before {
+    content: "onderzoek"
+}
+
 /* Utilities */
 
 .float\:right {

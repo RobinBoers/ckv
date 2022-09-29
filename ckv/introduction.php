@@ -59,7 +59,7 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3>Wat als je de vorm of het materiaal zou veranderen?</h3>
+                    <h3 class="item item-a">Wat als je de vorm of het materiaal zou veranderen?</h3>
                     <p>
                         Als je de vorm zou veranderen zou de foto een andere
                         inhoud krijgen.
@@ -77,7 +77,7 @@
                         je ook andere (kleur)contrasten die de boodschap
                         beïnvloeden.
                     </p>
-                    <h3>
+                    <h3 class="item item-b1">
                         Hoe verschilt het materiaal en de vorm tussen de
                         foto&#39;s?
                     </h3>
@@ -95,7 +95,7 @@
                         ervaar als een symbolisch ding dan de foto van de
                         wortels.
                     </p>
-                    <h3>Onderzoeksopdracht fotografie</h3>
+                    <h3 class="item item-extra">Onderzoeksopdracht fotografie</h3>
                     <p>
                         Voor fotografie moesten we een als onderzoeksopdracht
                         een foto namaken. Ik heb besloten met mijn zusje de
@@ -115,9 +115,14 @@
                         </figcaption>
                     </figure>
 
-                    <p>Je kan <a href="/ckv/onderzoek/liefde/fotografie">hem hier vinden</a>.</p>
+                    <p>Je kan <a href="/ckv/onderzoek/liefde/fotografie">onze foto hier vinden</a>.</p>
 
                     <h2 id="performance">Performance</h2>
+
+                    <p>
+                        Performance is een vergaarbak voor allemaal andere disciplines zoals beeldende vorming, dans, theater enz. Het enige dat vast staat is dat het materiaal in elk geval altijd je eigen lichaam is.
+                    </p>
+
                     <p>Voorbeelden uit de lessen:</p>
 
                     <table>
@@ -130,7 +135,7 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>elkaar diep in de ogen aankijken</td>
+                                <td><a href="https://www.youtube.com/watch?v=OS0Tg0IjCp4">elkaar diep in de ogen aankijken</a></td>
                                 <td>
                                     liefde (ze hadden een relatie gehad en zagen
                                     elkaar voor het eerst na zoveel jaar)
@@ -138,7 +143,7 @@
                                 <td>lichaam, grote hal met stoelen</td>
                             </tr>
                             <tr>
-                                <td>twee naakte mensen in de deurpost</td>
+                                <td><a href="https://www.youtube.com/watch?v=jn7m0bbk-oQ">twee naakte mensen in de deurpost</a></td>
                                 <td>
                                     liefde (het uitzoeken van hoe het
                                     &quot;publiek&quot; zou reageren)
@@ -147,7 +152,9 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3>Wat als je de vorm of het materiaal zou veranderen?</h3>
+                    <h3 class="item item-a">
+                        Wat als je de vorm of het materiaal zou veranderen?
+                    </h3>
                     <p>
                         Als je de vorm zou veranderen zou de performance een
                         andere uitwerking op het publiek hebben (een andere
@@ -168,7 +175,7 @@
                         performance wordt uitgevoerd — materiaal — ook wel
                         uitmaken).
                     </p>
-                    <h3>
+                    <h3 class="item item-b1">
                         Hoe verschilt het materiaal en de vorm tussen de
                         performances?
                     </h3>
@@ -185,7 +192,7 @@
                         performances een ander aspect van de liefde beschrijven.
                     </p>
 
-                    <h2 id="verschillen-tussen-de-disciplines">
+                    <h2 class="item item-c" id="verschillen-tussen-de-disciplines">
                         Verschillen tussen de disciplines
                     </h2>
                     <p>
@@ -257,7 +264,7 @@
                         fotograferen natuurlijk).
                     </p>
 
-                    <h2>Eigen voorbeelden</h2>
+                    <h2 class="item item-b2">Eigen voorbeelden</h2>
 
                     <p>
                         Voor mijn eigen voorbeelden heb ik foto's van de
