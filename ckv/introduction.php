@@ -32,6 +32,14 @@
                     <h2 id="fotografie">Fotografie</h2>
                     <p>Voorbeelden uit de lessen:</p>
 
+                    <p>
+                        <i>
+                            Ik kon de foto's nergens meer vinden, dus hieronder
+                            een beschrijving van wat er ongeveer op het
+                            smartboard stond.
+                        </i>
+                    </p>
+
                     <table>
                         <thead>
                             <tr>
@@ -59,7 +67,9 @@
                             </tr>
                         </tbody>
                     </table>
-                    <h3 class="item item-a">Wat als je de vorm of het materiaal zou veranderen?</h3>
+                    <h3 class="item item-a">
+                        Wat als je de vorm of het materiaal zou veranderen?
+                    </h3>
                     <p>
                         Als je de vorm zou veranderen zou de foto een andere
                         inhoud krijgen.
@@ -95,7 +105,9 @@
                         ervaar als een symbolisch ding dan de foto van de
                         wortels.
                     </p>
-                    <h3 class="item item-extra">Onderzoeksopdracht fotografie</h3>
+                    <h3 class="item item-extra">
+                        Onderzoeksopdracht fotografie
+                    </h3>
                     <p>
                         Voor fotografie moesten we een als onderzoeksopdracht
                         een foto namaken. Ik heb besloten met mijn zusje de
@@ -115,15 +127,39 @@
                         </figcaption>
                     </figure>
 
-                    <p>Je kan <a href="/ckv/onderzoek/liefde/fotografie">onze foto hier vinden</a>.</p>
+                    <p>
+                        Je kan
+                        <a href="/ckv/onderzoek/liefde/fotografie"
+                            >onze foto hier vinden</a
+                        >.
+                    </p>
 
                     <h2 id="performance">Performance</h2>
 
                     <p>
-                        Performance is een vergaarbak voor allemaal andere disciplines zoals beeldende vorming, dans, theater enz. Het enige dat vast staat is dat het materiaal in elk geval altijd je eigen lichaam is.
+                        Performance is een vergaarbak voor allemaal andere
+                        disciplines zoals beeldende vorming, dans, theater enz.
+                        Het enige dat vast staat is dat het materiaal in elk
+                        geval altijd je eigen lichaam is.
                     </p>
 
-                    <p>Voorbeelden uit de lessen:</p>
+                    <p>
+                        De voorbeelden uit de lessen zijn beide gemaakt door
+                        Marina Abramović en Ulay. Ze zijn een koppel die veel
+                        performance kunst gemaakt hebben. In het eerste
+                        voorbeeld doet Marina een performance waar ze
+                        vreemdelingen diep in de ogen aankijkt, waar hij dan bij
+                        komt. Dat is de eerste keer dat ze elkaar weer zien
+                        sinds ze uit elkaar zijn gegaan.
+                    </p>
+
+                    <p>
+                        Het tweede voorbeeld is van eerder. Daar doen ze een
+                        performance waar ze beide naakt in een smalle
+                        deuropening staan en de bezoekers van het museum tussen
+                        hen door moeten lopen. Ze zoeken hiermee uit hoe het
+                        publiek zou reageren.
+                    </p>
 
                     <table>
                         <thead>
@@ -135,7 +171,12 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=OS0Tg0IjCp4">elkaar diep in de ogen aankijken</a></td>
+                                <td>
+                                    <a
+                                        href="https://www.youtube.com/watch?v=OS0Tg0IjCp4"
+                                        >elkaar diep in de ogen aankijken</a
+                                    >
+                                </td>
                                 <td>
                                     liefde (ze hadden een relatie gehad en zagen
                                     elkaar voor het eerst na zoveel jaar)
@@ -143,7 +184,12 @@
                                 <td>lichaam, grote hal met stoelen</td>
                             </tr>
                             <tr>
-                                <td><a href="https://www.youtube.com/watch?v=jn7m0bbk-oQ">twee naakte mensen in de deurpost</a></td>
+                                <td>
+                                    <a
+                                        href="https://www.youtube.com/watch?v=jn7m0bbk-oQ"
+                                        >twee naakte mensen in de deurpost</a
+                                    >
+                                </td>
                                 <td>
                                     liefde (het uitzoeken van hoe het
                                     &quot;publiek&quot; zou reageren)
@@ -185,14 +231,25 @@
                         wel, de performance van de naakte mensen in de deurpost
                         had niet gewerkt in de grote hal met stoelen (zonder de
                         deurpost), en ook niet als niemand door die deur zou
-                        willen lopen.
+                        willen lopen. Daarnaast was het door de deur lopen (voor
+                        het publiek) niet vrijwillig en diep in de ogen kijken
+                        wel.
                     </p>
                     <p>
                         Verder is de vorm natuurlijk verschillend omdat de
                         performances een ander aspect van de liefde beschrijven.
                     </p>
+                    <p>
+                        Het eerste voorbeeld met de deur is ook "risky"-er, want
+                        het is toch wat meer controversieel om naakt in een
+                        museum te gaan staan. Het eerste voorbeeld lijkt ook
+                        meer iets te willen laten zien (dat kunst anders kan),
+                        het tweede voorbeeld heeft dat minder.
+                    </p>
 
-                    <h2 class="item item-c" id="verschillen-tussen-de-disciplines">
+                    <h2
+                        class="item item-c"
+                        id="verschillen-tussen-de-disciplines">
                         Verschillen tussen de disciplines
                     </h2>
                     <p>
@@ -253,7 +310,9 @@
                         benutten. Door bepaalde bewegingen/lichaamshoudingen te
                         gebruiken kan je de inhoud overbrengen. Denk
                         bijvoorbeeld aan het imiteren van een handeling (iets
-                        naspelen, zoals bijvoorbeeld autorijden of koken).
+                        naspelen, zoals bijvoorbeeld autorijden of koken). Bij
+                        performance kan je ook iets met de reactie van het
+                        publiek doen.
                     </p>
 
                     <p>
