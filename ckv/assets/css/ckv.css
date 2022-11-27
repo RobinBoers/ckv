@@ -144,6 +144,10 @@ table th {
     padding: 1ch;
 }
 
+audio {
+    width: 100%;
+}
+
 /* Layout */
 
 body {
@@ -219,6 +223,13 @@ body > footer {
     }
 }
 
+.subtitle {
+    font-size: 0.5em;
+    font-weight: normal;
+    font-style: italic;
+    display: block;
+}
+
 .navlist ul,
 .navbar ul {
     padding-block-start: var(--s-2);
@@ -278,33 +289,33 @@ body > footer {
 
 .item::before {
     padding-inline: 1ch;
-    padding-block: .2ch;
+    padding-block: 0.2ch;
     padding-block-start: 0;
     border-radius: 15px;
     font-variant: small-caps;
     line-height: 0;
-    background-color:rgba(69, 240, 252, .3);
-    margin-inline-end: .4ch;
+    background-color: rgba(69, 240, 252, 0.3);
+    margin-inline-end: 0.4ch;
 }
 
 .item-a::before {
-    content: "a"
+    content: "a";
 }
 
 .item-b1::before {
-    content: "b.i"
+    content: "b.i";
 }
 
 .item-b2::before {
-    content: "b.ii"
+    content: "b.ii";
 }
 
 .item-c::before {
-    content: "c"
+    content: "c";
 }
 
 .item-extra::before {
-    content: "onderzoek"
+    content: "onderzoek";
 }
 
 /* Utilities */
