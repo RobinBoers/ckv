@@ -33,7 +33,8 @@
                         <a href="https://www.youtube.com/watch?v=uzSHplbvdmU"
                             >de DWDD video van JunkieXL</a
                         >
-                        die we in tijdens de les hebben gekeken).
+                        die we in tijdens de les hebben gekeken en het spel waar
+                        je de film bij de muziek moest raden).
                     </p>
                     <p>
                         Ik had eigen nog nooit gemerkt dat veel filmmuziek uit

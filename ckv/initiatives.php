@@ -20,38 +20,21 @@
                     <h1>Mijn initiatieven</h1>
 
                     <p>
-                        Deze page zal in de toekomst
+                        Deze page bevat
                         <a
                             href="https://ckvzan.wixsite.com/dossier/eigen-initiatieven-1"
                             >eigen initiatieven</a
-                        >
-                        bevatten.
+                        >.
+                    </p>
+
+                    <h2>Wereldkerstcircus</h2>
+                    
+                    <p>
+                        Ik had van mijn werk kaartjes gekregen voor het Wereldkerstcicus 2022 in Carré. Ik vind circus erg leuk om te kijken omdat mijn zusje ook bij een circusgroep zit (Rotjeknor in Rotterdam). De voorstelling was interessant en erg spectaculair.
                     </p>
 
                     <p>
-                        <i
-                            >Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Ut convallis ullamcorper neque. Nam imperdiet
-                            placerat neque, et cursus magna facilisis non. Nam
-                            non mauris purus. Donec dictum elementum dolor at
-                            malesuada. Sed id viverra risus. Nam odio quam,
-                            molestie ut ligula at, cursus laoreet diam. Fusce
-                            sollicitudin quam lobortis ipsum tempus convallis.
-                            Nam suscipit bibendum tellus, non sollicitudin sem
-                            facilisis pharetra. Maecenas semper eros ut risus
-                            fermentum, vitae consectetur felis condimentum.</i
-                        >
-                    </p>
-                    <p>
-                        <i>
-                            Fusce non ante eu elit maximus volutpat eu at nisl.
-                            Mauris in velit tellus. In vitae neque eros. Fusce
-                            et scelerisque mi, vel ornare nisi. Praesent in
-                            vulputate lectus. Cras ultricies condimentum congue.
-                            In non sapien in metus maximus ullamcorper fermentum
-                            eget tellus. Quisque consequat urna ac sollicitudin
-                            iaculis.
-                        </i>
+                        <a href="/ckv/assets/eigen-initiatief-wereldkerstcircus.odt">Download volledig verslag</a>
                     </p>
                 </section>
             </article>
