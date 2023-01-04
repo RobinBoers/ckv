@@ -34,7 +34,7 @@
                     </p>
 
                     <p>
-                        <a href="/ckv/assets/eigen-initiatief-wereldkerstcircus.odt">Download volledig verslag</a>
+                        Download volledig verslag: <a href="/ckv/assets/eigen-initiatief-wereldkerstcircus.pdf">als PDF</a> of <a href="/ckv/assets/eigen-initiatief-wereldkerstcircus.odt">als Word document</a>
                     </p>
                 </section>
             </article>
