@@ -55,7 +55,24 @@
                     </p>
 
                     <p>
-                        We zijn naar
+                        We hebben het de eerste les gehad over het ontstaan van
+                        Jazz en hoe verschillende genres in de Jazz-geschiedenis
+                        passen.
+                    </p>
+
+                    <figure>
+                        <img
+                            src="/ckv/assets/images/jazz-geschiedenis.jpg"
+                            alt="Een tijdlijn van de Jazz-geschiedenis" />
+
+                        <figcaption>
+                            Figuur 1: Een tijdlijn van de verschillende genres
+                            uit de Jazz-geschiedenis
+                        </figcaption>
+                    </figure>
+
+                    <p>
+                        Daarna hebben we improveseren geoefend en zijn we naar
                         <a
                             href="https://www.dedoelen.nl/nl/agenda/20086/Be_Free_feat_Kika_Sprangers/Ebba_Asman"
                             >een optreden van Ebba Åsman</a
