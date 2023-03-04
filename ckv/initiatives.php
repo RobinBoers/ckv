@@ -28,13 +28,26 @@
                     </p>
 
                     <h2>Wereldkerstcircus</h2>
-                    
+
                     <p>
-                        Ik had van mijn werk kaartjes gekregen voor het Wereldkerstcicus 2022 in Carré. Ik vind circus erg leuk om te kijken omdat mijn zusje ook bij een circusgroep zit (Rotjeknor in Rotterdam). De voorstelling was interessant en erg spectaculair.
+                        Ik had van mijn werk kaartjes gekregen voor het
+                        Wereldkerstcicus 2022 in Carré. Ik vind circus erg leuk
+                        om te kijken omdat mijn zusje ook bij een circusgroep
+                        zit (Rotjeknor in Rotterdam). De voorstelling was
+                        interessant en erg spectaculair.
                     </p>
 
                     <p>
-                        Download volledig verslag: <a href="/ckv/assets/eigen-initiatief-wereldkerstcircus.pdf">als PDF</a> of <a href="/ckv/assets/eigen-initiatief-wereldkerstcircus.odt">als Word document</a>
+                        Download volledig verslag:
+                        <a
+                            href="/ckv/assets/eigen-initiatief-wereldkerstcircus.pdf"
+                            >als PDF</a
+                        >
+                        of
+                        <a
+                            href="/ckv/assets/eigen-initiatief-wereldkerstcircus.odt"
+                            >als Word document</a
+                        >.
                     </p>
                 </section>
             </article>

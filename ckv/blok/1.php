@@ -18,6 +18,7 @@
             <article>
                 <section class="box">
                     <h1>Blok 1</h1>
+
                     <p>
                         Ik heb dit blok voor filmmuziek gekozen omdat ik
                         nieuwsgierig was hoe muziek in films ons psychologisch
@@ -28,20 +29,22 @@
 
                     <p>
                         Ik kende voor deze lessen nog bijna geen filmmuiek,
-                        naast de themesongs dan. Ik ken nu iets meer filmmuziek
-                        (vooral dankzij
+                        naast de themesongs dan. Ik ken nu iets meer filmmuziek,
+                        dankzij
                         <a href="https://www.youtube.com/watch?v=uzSHplbvdmU"
-                            >de DWDD video van JunkieXL</a
+                            >de DWDD aflevering met JunkieXL</a
                         >
                         die we in tijdens de les hebben gekeken en het spel waar
-                        je de film bij de muziek moest raden).
+                        je bij een fragment de juiste film moest raden.
                     </p>
+
                     <p>
                         Ik had eigen nog nooit gemerkt dat veel filmmuziek uit
                         maar één akkoord bestaat, maar ik vind het wel erg
                         interessant hoe je met zo weinig akkoorden zulke goede
                         muziek kan maken.
                     </p>
+
                     <p>
                         Ik heb met Kevin, Sem en Jordy samengewerkt. We hebben
                         het langst gedaan over de analyse van de filmtrailer en
@@ -51,6 +54,12 @@
                             >La Linea</a
                         >.
                     </p>
+
+                    <img
+                        src="/ckv/assets/images/three-thousand-years-of-longing-cover.jpg"
+                        alt="Cover van de film"
+                        class="cover" />
+
                     <p>
                         We hebben op voor dit blok
                         <em
@@ -74,8 +83,8 @@
                         relevant in het kader van filmmuziek. Ik heb geprobeerd
                         op de filmmuziek te letten, maar dat is erg moeilijk. De
                         geluidseffecten vielen met wel heel erg op. Misschien is
-                        dit omdat de muziek veel minder bewust binnenkomt, veel
-                        subtieler.
+                        dit omdat de muziek veel minder bewust en veel subtieler
+                        binnenkomt.
                     </p>
                     <p>
                         Kortom denk ik dat deze periode erg interessant was, al
@@ -127,11 +136,12 @@
                     <p>
                         <em
                             ><small
-                                >Ons originele stuk had een pitchbend E op een
-                                tweede keyboard erdoorheen om de spanning op te
-                                bouwen, maar ik heb thuis maar een keyboard en
-                                die heeft geen pitchbend, dus zit dat niet in de
-                                opname.</small
+                                >Ons originele stuk dat we tijdens de les hadden
+                                gemaakt had een pitchbend E van een tweede
+                                keyboard als achtergrond om de spanning op te
+                                bouwen, maar ik heb thuis maar één keyboard en
+                                die heeft geen pitchbend, dus dat zit niet in
+                                deze opname.</small
                             ></em
                         >
                     </p>
