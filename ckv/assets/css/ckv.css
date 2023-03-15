@@ -237,6 +237,11 @@ body > footer {
     display: block;
 }
 
+.comment {
+    font-family: monospace;
+    margin-bottom: 0;
+}
+
 .navlist ul,
 .navbar ul {
     padding-block-start: var(--s-2);

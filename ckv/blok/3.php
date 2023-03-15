@@ -123,7 +123,10 @@
 
                     <p>Hier vind je onze gezamelijk Jazz-improvisatie:</p>
 
-                    <pre>TODO: download fragment en hier plaatsen</pre>
+                    <p class="comment">
+                        Opmerking: we hebben het fragment niet van onze docent
+                        ontvangen <small>>:(</small>
+                    </p>
 
                     <audio src="/ckv/assets/music/jazz.m4a" controls></audio>
 
