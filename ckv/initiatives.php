@@ -49,6 +49,18 @@
                             >als Word document</a
                         >.
                     </p>
+
+                    <h2>Super Mario Bros film</h2>
+
+                    <p>Ik ben met mijn vrienden naar de première van de Super Mario Bros film gegaan. Ik vond het een erg goede film, met hele goede visuals.</p>
+
+                    <p>
+                        Download volledig verslag:
+                        <a
+                            href="/ckv/assets/eigen-initiatief-mario.pdf"
+                            >als PDF</a
+                        >
+                    </p>
                 </section>
             </article>
             <aside class="sidebar">

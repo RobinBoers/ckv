@@ -20,24 +20,7 @@
                     <h1>Blok 4</h1>
 
                     <p>
-                        <i
-                            >Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit. Fusce efficitur sapien at erat facilisis, ac
-                            volutpat diam eleifend. Duis fringilla libero eget
-                            urna vulputate, at sollicitudin ligula aliquet.
-                            Integer sagittis posuere pharetra. Mauris non
-                            sollicitudin purus, eu blandit est. Nam luctus
-                            semper velit, non rutrum nunc iaculis id. Nulla ut
-                            feugiat est. Vestibulum ante ipsum primis in
-                            faucibus orci luctus et ultrices posuere cubilia
-                            curae; Vestibulum ante ipsum primis in faucibus orci
-                            luctus et ultrices posuere cubilia curae; In aliquam
-                            libero quis fermentum vestibulum. Etiam augue odio,
-                            interdum eu tincidunt et, lacinia non quam. Sed eu
-                            ex eros. Suspendisse quis posuere libero. Etiam
-                            ipsum arcu, lacinia quis sapien nec, porta fermentum
-                            erat.
-                        </i>
+                        Dit blok had ik Wereldmuziek van meneer Zanen. We moesten daarvoor een kort verslag/presentatie maken over volksmuziek uit een land naar keuze. Mijn keuze was Rusland, omdat de cultuur me interessant leek. Je kan mijn verslag hier vinden: <a href="https://docs.google.com/document/d/1S0MOoSx3-6288CbuLxk0WYebwz9_1yymnWKsmy0BfjI/edit?usp=sharing">Volksmuziek uit Rusland</a>.
                     </p>
                 </section>
             </article>
