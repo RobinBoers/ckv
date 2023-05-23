@@ -64,7 +64,7 @@
 
                     <h2>Circusstadfestival</h2>
 
-                    <p>Ik ben naar Circusstadfestival gegaan en heb daar naar het optreden van heg jong-talent van Circus Rotjeknor gekeken, waar mijn zusje in meespeelde. Ik vond het erg leuk en ben super trots.</p>
+                    <p>Ik ben naar Circusstadfestival gegaan en heb daar naar het optreden van het jong talent van Circus Rotjeknor gekeken, waar mijn zusje in meespeelde. Ik vond het erg leuk en ben super trots.</p>
 
                     <p>
                         Download volledig verslag:
