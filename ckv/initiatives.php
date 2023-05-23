@@ -61,6 +61,18 @@
                             >als PDF</a
                         >
                     </p>
+
+                    <h2>Circusstadfestival</h2>
+
+                    <p>Ik ben naar Circusstadfestival gegaan en heb daar naar het optreden van heg jong-talent van Circus Rotjeknor gekeken, waar mijn zusje in meespeelde. Ik vond het erg leuk en ben super trots.</p>
+
+                    <p>
+                        Download volledig verslag:
+                        <a
+                            href="/ckv/assets/eigen-initiatief-circusstad.pdf"
+                            >als PDF</a
+                        >
+                    </p>
                 </section>
             </article>
             <aside class="sidebar">
