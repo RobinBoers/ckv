@@ -20,7 +20,7 @@
 
                     <figure class="float:right">
                         <img
-                            src="/assets/images/me.jpeg"
+                            src="//geheimesite.nl/assets/images/me.jpeg"
                             alt="Picture of me, smile!"
                             class="profile-picture square" />
                         <figcaption>Dit ben ik, hallo!</figcaption>
@@ -41,16 +41,20 @@
                     </p>
 
                     <p>
-                        In mijn vrije tijd speel ik graag handbal. Ik kom niet heel veel in contact met traditionele kunst, maar ik design websites voor mijn werk bij Qdentity. Ik houd verder ook van geschiedenis en heb bijgedragen aan de lessenserie van de Historische Vereniging Maassluis. Dat is het wel een beetje qua cultuur ervaring.
+                        In mijn vrije tijd speel ik graag handbal. Ik kom niet heel veel in contact met traditionele kunst, maar ik design websites voor mijn werk bij Qdentity. Ik houd verder ook van geschiedenis en heb bijgedragen aan <a href="https://hvm-oldscool.nl">de lessenserie</a> van de Historische Vereniging Maassluis. Dat is het wel een beetje qua cultuur ervaring.
                     </p>
 
                     <p>
-                        <small>Nu moet ik wel zeggen dat ik het niet mis ofzo, ik vind het wel prima om niet heel veel in contact te komen met kunst. Ik weet niet of het slim is om dit op mn site te zetten (geen minpunten pls), maar ik dacht dat het wel belangrijk was.</small>
+                        Ik vind het persoonlijk wel prima om niet zoveel in contact te komen met (traditionele) kunst. Ik vind het bijvoorbeeld wel heel knap dat mensen super realistische schilderijen (realisme?) kunnen maken, maar ik vind het ook saai om naar te kijken. Hetzelfde geldt voor bijvoorbeeld beelden. En als je dan met abstracte en moderne kunst komt ben je me al helemaal kwijt. 
+                    </p>
+
+                    <p>
+                        Daarentegen vind ik Circus, Theater, Film en Muziek wel heel interessant en leuk. Ik denk dat het komt omdat deze dingen wat concreter zijn. Daarnaast zijn ze langer, heb je meer om naar te kijken en spelen ze veel meer in op je emoties.
                     </p>
 
                     <p>
                         Als je meer over me wil weten kan je op de
-                        <a href="/over-mij">niet-CKV over mij pagina</a> kijken.
+                        <a href="/over-mij">over mij pagina van mijn normale site</a> kijken.
                     </p>
                 </section>
             </article>
