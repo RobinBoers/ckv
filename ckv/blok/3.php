@@ -112,7 +112,7 @@
                         het opnemen van een improvisatie met de hele klas. We
                         moesten één voor één 8 maten improviseren (<i
                             ><small
-                                >volgens mij was het 8? Ik heb geen muziek van
+                                >volgens mij was het 8? Ik heb geen verstand van
                                 muziek...</small
                             ></i
                         >). Ik was er best wel zenuwachtig om voor de klas iets
