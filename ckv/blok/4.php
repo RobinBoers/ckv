@@ -27,17 +27,28 @@
                         Ik verwachtte deze periode wat meer te leren over muziek uit andere culturen. We hebben niet per sé iets geleerd over hoe de muziek in elkaar zit, maar wel over hoe deze klinkt.
                     </p>
 
+                    <h2>Verslag over volksmuziek</h2>
+
                     <p>
                         Onze docent had een CD met super veel volksmuziek. Aan de hand daarvan hebben we een spel/quiz gedaan waarbij je het land bij de muziek moest raden. Dat vond ik nog best pittig, want ik kende niet zoveel buitenlandse muziek, en we deden die quiz zonder enige uitleg ervoor.
                     </p>
 
+                    <img
+                        src="/ckv/assets/images/rusland.jpg"
+                        alt="Kaart/vlag van Rusland in één afbeelding"
+                        class="cover" />
+
                     <p>
-                         We moesten zelf een kort verslag/presentatie maken over volksmuziek uit een land naar keuze. Mijn keuze was Rusland, omdat de cultuur me cool leek. Je kan mijn verslag hier vinden: <a href="https://docs.google.com/document/d/1S0MOoSx3-6288CbuLxk0WYebwz9_1yymnWKsmy0BfjI/edit?usp=sharing">Volksmuziek uit Rusland</a>.
+                         We moesten zelf een kort verslag/presentatie maken over volksmuziek uit een land naar keuze. Mijn keuze was Rusland, omdat de cultuur me cool leek. Daarvoor heb ik georgische polyfonieën onderzocht. Je kan mijn verslag hier vinden: <a href="https://docs.google.com/document/d/1S0MOoSx3-6288CbuLxk0WYebwz9_1yymnWKsmy0BfjI/edit?usp=sharing">Volksmuziek uit Rusland</a>.
                     </p>
+
+                    <h2>Optreden</h2>
 
                     <p>
                         Ik kon helaas niet naar de voorstelling gaan, want ik had een handbaltoernooi in Franeker (in my defense: het optreden was op een vrije dag gepland en dat had ik niet verwacht). Dat vond ik wel erg jammer want het leek me juist zo'n leuke voorstelling. Tja, shit happens ig. We zijn wel 3e geworden (Maar BIJNA eerste. Het scheelde maar 3 punten met een stand van 18-21 ofzo, en dan hadden we van de Duitsers gewonnen en waren we eerste geworden. Maar nu kwamen we op doelsaldo onder de Fransen op de 3e plek terecht.)
                     </p>
+
+                    <h2>Ritmes & drummen</h2>
 
                     <p>
                         In de laatste les hebben we het gehad over ritmes. Dat was wel echt heel leuk. We moesten klappen op een bepaald ritme dat we hadden bedacht aan de hand van dierennamen. Daarna gingen we ritmes drummen op random voorwerpen die we van thuis hadden meegenomen, waarbij je ook midden in de "beat" voorwerpen van de ene persoon naar de andere mocht verplaatsen.
