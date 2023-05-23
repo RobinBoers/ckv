@@ -20,7 +20,43 @@
                     <h1>Blok 4</h1>
 
                     <p>
-                        Dit blok had ik Wereldmuziek van meneer Zanen. We moesten daarvoor een kort verslag/presentatie maken over volksmuziek uit een land naar keuze. Mijn keuze was Rusland, omdat de cultuur me interessant leek. Je kan mijn verslag hier vinden: <a href="https://docs.google.com/document/d/1S0MOoSx3-6288CbuLxk0WYebwz9_1yymnWKsmy0BfjI/edit?usp=sharing">Volksmuziek uit Rusland</a>.
+                        Dit blok had ik Wereldmuziek van meneer Zanen. Ik had hiervoor gekozen omdat ik muziek leuk vind, en de lesstijl van meneer Zanen prettig vind. Daarnaast leek het me boeiend iets meer van andere culturen te leren en (ook niet onbelangrijk), hadden mijn vrienden ook voor dit onderwerp gekozen.
+                    </p>
+
+                    <p>
+                        Ik verwachtte deze periode wat meer te leren over muziek uit andere culturen. We hebben niet per sé iets geleerd over hoe de muziek in elkaar zit, maar wel over hoe deze klinkt.
+                    </p>
+
+                    <p>
+                        Onze docent had een CD met super veel volksmuziek. Aan de hand daarvan hebben we een spel/quiz gedaan waarbij je het land bij de muziek moest raden. Dat vond ik nog best pittig, want ik kende niet zoveel buitenlandse muziek, en we deden die quiz zonder enige uitleg ervoor.
+                    </p>
+
+                    <p>
+                         We moesten zelf een kort verslag/presentatie maken over volksmuziek uit een land naar keuze. Mijn keuze was Rusland, omdat de cultuur me cool leek. Je kan mijn verslag hier vinden: <a href="https://docs.google.com/document/d/1S0MOoSx3-6288CbuLxk0WYebwz9_1yymnWKsmy0BfjI/edit?usp=sharing">Volksmuziek uit Rusland</a>.
+                    </p>
+
+                    <p>
+                        Ik kon helaas niet naar de voorstelling gaan, want ik had een handbaltoernooi in Franeker (in my defense: het optreden was op een vrije dag gepland en dat had ik niet verwacht). Dat vond ik wel erg jammer want het leek me juist zo'n leuke voorstelling. Tja, shit happens ig. We zijn wel 3e geworden (Maar BIJNA eerste. Het scheelde maar 3 punten met een stand van 18-21 ofzo, en dan hadden we van de Duitsers gewonnen en waren we eerste geworden. Maar nu kwamen we op doelsaldo onder de Fransen op de 3e plek terecht.)
+                    </p>
+
+                    <p>
+                        In de laatste les hebben we het gehad over ritmes. Dat was wel echt heel leuk. We moesten klappen op een bepaald ritme dat we hadden bedacht aan de hand van dierennamen. Daarna gingen we ritmes drummen op random voorwerpen die we van thuis hadden meegenomen, waarbij je ook midden in de "beat" voorwerpen van de ene persoon naar de andere mocht verplaatsen.
+                    </p>
+
+                    <p>
+                        Kortom heb ik deze periode veel geleerd over buitenlandse volksmuziek en andere culturen, en heb ik dat verwerkt in een verslag. Daarnaast hebben we ook dingen geleerd over ritmes in een leuke praktische opdracht.
+                    </p>
+
+                    <h2 id="vorm-inhoud-en-materiaal">
+                        Vorm, inhoud en materiaal
+                    </h2>
+
+                    <p>
+                        De vorm van Wereldmuziek is, zoals alle muziek, geluid/audio. De
+                        inhoud kan veel verschillen, omdat je met muziek een
+                        grote verscheidenheid aan emoties kan oproepen. Het
+                        materiaal zijn de instrumenten, artietsen en extra gear
+                        zoals versterkers, speakers en microfoons.
                     </p>
                 </section>
             </article>
