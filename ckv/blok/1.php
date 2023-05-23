@@ -131,7 +131,7 @@
                         komt.
                     </p>
 
-                    <audio src="/ckv/assets/music/strip.m4a" controls></audio>
+                    <audio src="//github.com/RobinBoers/ckv/raw/master/ckv/assets/music/strip.m4a" controls></audio>
 
                     <p>
                         <em

@@ -123,12 +123,12 @@
 
                     <p>Hier vind je onze gezamelijk Jazz-improvisatie:</p>
 
-                    <p class="comment">
+                    <!-- <p class="comment">
                         Opmerking: we hebben het fragment niet van onze docent
                         ontvangen <small>>:(</small>
-                    </p>
+                    </p> -->
 
-                    <audio src="/ckv/assets/music/jazz.m4a" controls></audio>
+                    <audio src="//github.com/RobinBoers/ckv/raw/master/ckv/assets/music/st-thomas.mp3" controls></audio>
 
                     <p>
                         Kortom vond ik dit blok erg leuk en heb ik er veel van
