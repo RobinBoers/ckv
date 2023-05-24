@@ -51,6 +51,10 @@
                     <p>
                         Daarentegen vind ik Circus, Theater, Film en Muziek wel heel interessant en leuk. Ik denk dat het komt omdat deze dingen wat concreter zijn. Daarnaast zijn ze langer, heb je meer om naar te kijken en spelen ze veel meer in op je emoties.
                     </p>
+                    
+                    <p>
+                        <a href="https://docs.google.com/document/d/1XNxOgKpachThf6Q2zBgJSZw46IOb9Ls3uVFJ1091krw/edit?usp=sharing">Download hier mijn eindverslag</a>
+                    </p>
 
                     <p>
                         Als je meer over me wil weten kan je op de
