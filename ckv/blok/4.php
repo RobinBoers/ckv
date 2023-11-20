@@ -83,6 +83,8 @@
                         <li><a href="/ckv/blok/2">Blok 2</a></li>
                         <li><a href="/ckv/blok/3">Blok 3</a></li>
                         <li><a href="/ckv/blok/4">Blok 4</a></li>
+                        <li><a href="/ckv/blok/5">Blok 5</a></li>
+                        <li><a href="/ckv/blok/6">Blok 6</a></li>
                         <li>
                             <a href="/ckv/initiatives">Mijn initiatieven</a>
                         </li>

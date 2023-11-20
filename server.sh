@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # Starts local server for development
 
 echo "Serving at http://localhost:4000/ckv/"

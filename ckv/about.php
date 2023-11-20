@@ -20,7 +20,7 @@
 
                     <figure class="float:right">
                         <img
-                            src="//geheimesite.nl/assets/images/me.jpeg"
+                            src="//geheimesite.nl/images/me.webp"
                             alt="Picture of me, smile!"
                             class="profile-picture square" />
                         <figcaption>Dit ben ik, hallo!</figcaption>
@@ -57,8 +57,8 @@
                     </p>
 
                     <p>
-                        Als je meer over me wil weten kan je op de
-                        <a href="/over-mij">over mij pagina van mijn normale site</a> kijken.
+                        Als je meer over me wil weten kan je op
+                        <a href="https://geheimesite.nl">mijn normale site</a> kijken.
                     </p>
                 </section>
             </article>
@@ -74,6 +74,8 @@
                         <li><a href="/ckv/blok/2">Blok 2</a></li>
                         <li><a href="/ckv/blok/3">Blok 3</a></li>
                         <li><a href="/ckv/blok/4">Blok 4</a></li>
+                        <li><a href="/ckv/blok/5">Blok 5</a></li>
+                        <li><a href="/ckv/blok/6">Blok 6</a></li>
                         <li>
                             <a href="/ckv/initiatives">Mijn initiatieven</a>
                         </li>

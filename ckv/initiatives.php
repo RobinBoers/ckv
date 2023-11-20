@@ -27,6 +27,18 @@
                         >.
                     </p>
 
+                    <h2>STRAAT & FOAM</h2>
+
+                    <p>
+                        We zijn met school op excursie naar Amsterdam gegaan en
+                        hebben daar STRAAT museum en FOAM bezocht. We mochten dit
+                        opgeven als Plus-initiatief.
+                    </p>
+
+                    <p>
+                        <a href="/ckv/plus">Zie volledig verslag</a>
+                    </p>
+
                     <h2>Wereldkerstcircus</h2>
 
                     <p>
@@ -38,15 +50,9 @@
                     </p>
 
                     <p>
-                        Download volledig verslag:
                         <a
                             href="/ckv/assets/eigen-initiatief-wereldkerstcircus.pdf"
-                            >als PDF</a
-                        >
-                        of
-                        <a
-                            href="/ckv/assets/eigen-initiatief-wereldkerstcircus.odt"
-                            >als Word document</a
+                            >Download volledig verslag (PDF)</a
                         >.
                     </p>
 
@@ -55,11 +61,10 @@
                     <p>Ik ben met mijn vrienden naar de première van de Super Mario Bros film gegaan. Ik vond het een erg goede film, met hele goede visuals.</p>
 
                     <p>
-                        Download volledig verslag:
                         <a
                             href="/ckv/assets/eigen-initiatief-mario.pdf"
-                            >als PDF</a
-                        >
+                            >Download volledig verslag (PDF)</a
+                        >.
                     </p>
 
                     <h2>Circusstadfestival</h2>
@@ -67,11 +72,10 @@
                     <p>Ik ben naar Circusstadfestival gegaan en heb daar naar het optreden van het jong talent van Circus Rotjeknor gekeken, waar mijn zusje in meespeelde. Ik vond het erg leuk en ben super trots.</p>
 
                     <p>
-                        Download volledig verslag:
                         <a
                             href="/ckv/assets/eigen-initiatief-circusstad.pdf"
-                            >als PDF</a
-                        >
+                            >Download volledig verslag (PDF)</a
+                        >.
                     </p>
                 </section>
             </article>
@@ -87,6 +91,8 @@
                         <li><a href="/ckv/blok/2">Blok 2</a></li>
                         <li><a href="/ckv/blok/3">Blok 3</a></li>
                         <li><a href="/ckv/blok/4">Blok 4</a></li>
+                        <li><a href="/ckv/blok/5">Blok 5</a></li>
+                        <li><a href="/ckv/blok/6">Blok 6</a></li>
                         <li>
                             <a href="/ckv/initiatives">Mijn initiatieven</a>
                         </li>
