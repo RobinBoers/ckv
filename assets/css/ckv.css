@@ -45,7 +45,7 @@ body {
     --font-display: "Bungee", cursive;
     --font-serif: "Tiro Devanagari Hindi", serif;
 
-    --background-image: url("/ckv/bg.jpg");
+    --background-image: url("/~robin/ckv/bg.jpg");
 
     --font-size-viewport: ((100vw - 600px) / (1000 - 600));
 }
